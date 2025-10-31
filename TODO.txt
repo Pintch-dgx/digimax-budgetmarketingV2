@@ -1,0 +1,18 @@
+Dashboard
+    1. 
+Campagne
+    1. view foglio di lavoro   
+Richieste Budget
+    1. Aggiornare i dati di richiesta (Quarter sprint, Obiettivo, Key Results lookup)
+
+NEW
+    1.pagina di setup/edit OKR (solo Admin)
+    2.pagina di setup/edit Quarter Sprint (solo admin)
+    3.trasformare la barra superiore in un menù per le varie funzioni
+
+    FiscalYear
+  └─ Objective (strategico, annuale)
+      └─ QuarterSprint (periodo + obiettivo operativo)
+          └─ KeyResult (metriche misurabili)
+              └─ Campaign (iniziative tattiche)
+                  └─ BudgetAllocation (risorse per quarter)
