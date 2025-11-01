@@ -16,3 +16,5 @@ NEW
           └─ KeyResult (metriche misurabili)
               └─ Campaign (iniziative tattiche)
                   └─ BudgetAllocation (risorse per quarter)
+
+                  
