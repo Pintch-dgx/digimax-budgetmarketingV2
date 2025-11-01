@@ -17,4 +17,6 @@ NEW
               └─ Campaign (iniziative tattiche)
                   └─ BudgetAllocation (risorse per quarter)
 
-                  
+NOTE: 01/11/25
+La struttura ora funziona, ma le richieste di budget sono slegate dal giro.
+Bisogna ripensare il processo dal lato dell'utente.
