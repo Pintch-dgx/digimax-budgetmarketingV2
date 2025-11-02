@@ -4,6 +4,8 @@ Campagne
     1. view foglio di lavoro   
 Richieste Budget
     1. Aggiornare i dati di richiesta (Quarter sprint, Obiettivo, Key Results lookup)
+    2. Fixare ricerca richieste che blocca la fetch quando il campo viene svuotato (mostrare lista sempre o azzerare errore)
+    3. Migliorare UX selezione data nel form (consentire input manuale o shortcut rapida)
 
 NEW
     1.pagina di setup/edit OKR (solo Admin)
